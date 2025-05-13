@@ -1,0 +1,22 @@
+.heading.title {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    border: 10px solid salmon;
+    margin: auto
+}
+
+.heading.description {
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+}
+
+.heading.steps {
+    background-color: darkolivegreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    padding: 30px;
+}
